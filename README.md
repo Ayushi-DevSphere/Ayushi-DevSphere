@@ -43,16 +43,17 @@ Building data-driven systems and learning how intelligence scales in the real wo
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&rank_icon=github" 
+    src="https://github-readme-stats-git-master-ayushi-majumdars-projects.vercel.app/api?username=AyushiMajumdar&show_icons=true&theme=dark&hide_border=true&rank_icon=github" 
     height="165"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&langs_count=8"
+    src="https://github-readme-stats-mkqk82uu8-ayushi-majumdars-projects.vercel.app/api/top-langs/?username=AyushiMajumdar&layout=compact&theme=dark&hide_border=true&langs_count=8"
   />
 </p>
+
 
 ---
 

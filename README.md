@@ -38,29 +38,27 @@ Building data-driven systems and learning how intelligence scales in the real wo
 - VS Code  
 
 ---
-
 ## 📊 GitHub Performance Overview
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-master-ayushi-majumdars-projects.vercel.app/api?username=AyushiMajumdar&show_icons=true&theme=dark&hide_border=true&rank_icon=github" 
+    src="https://github-readme-stats-one-iota-91.vercel.app/api?username=Ayushi-DevSphere&show_icons=true&theme=dark&hide_border=true&rank_icon=github" 
     height="165"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-mkqk82uu8-ayushi-majumdars-projects.vercel.app/api/top-langs/?username=AyushiMajumdar&layout=compact&theme=dark&hide_border=true&langs_count=8"
+    src="https://github-readme-stats-one-iota-91.vercel.app/api/top-langs/?username=Ayushi-DevSphere&layout=compact&theme=dark&hide_border=true&langs_count=8"
   />
 </p>
-
-
 ---
 
 ## 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushi-DevSphere&theme=github-compact&hide_border=true"/>
 </p>
+
 
 ---
 

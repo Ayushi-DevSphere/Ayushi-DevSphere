@@ -1,79 +1,88 @@
-# Hi, I’m Ayushi 👋  
+<h1 align="center">Ayushi Majumdar</h1>
+<h3 align="center">
+Data Science & Analytics | Machine Learning | Applied AI
+</h3>
 
-I’m a Computer Science undergraduate specializing in **Data Science & Analytics**, focused on building intelligent, data-driven solutions and continuously strengthening my technical foundations.
-
----
-
-## 🚀 About Me
-- 🎓 B.Tech in Computer Science Engineering (Data Science & Analytics)  
-- 📍 India  
-- 🧠 Strong interest in **Machine Learning, Deep Learning, and NLP**
-- 📈 Focused on practical learning through projects, certifications, and experimentation
-- 🔁 Believe in consistency, clarity, and long-term growth
+<p align="center">
+Building data-driven systems and learning how intelligence scales in the real world.
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 Professional Snapshot
+- 🔭 Working on **Machine Learning, Deep Learning & data-centric applications**
+- 🌱 Currently strengthening **Deep Learning, NLP & core ML foundations**
+- 💼 Core strengths: **Python, Data Science, Machine Learning**
+- 🧠 Focus: Converting **raw data → meaningful insights → practical solutions**
+- 🎓 B.Tech CSE (Data Science & Analytics)
 
-### Programming Languages
-- **Python**
-- **Java**
-- **R**
-- **C++**
+---
 
-### Data Science & Machine Learning
-- Machine Learning (Supervised & Unsupervised)
-- Deep Learning fundamentals
+## 🛠️ Technology Stack
+
+**Languages**
+- Python · Java · R · C++
+
+**ML / AI**
+- Machine Learning  
+- Deep Learning  
+- TensorFlow  
 - Natural Language Processing (NLP)
-- Feature Engineering & Data Preprocessing
-- Model Evaluation & Optimization
 
-### Libraries & Frameworks
-- **TensorFlow**
-- **Scikit-learn**
-- NumPy
-- Pandas
-- Matplotlib
+**Data & Libraries**
+- Pandas · NumPy · Scikit-learn · Matplotlib  
 
-### Tools & Platforms
-- Git & GitHub
-- Jupyter Notebook
-- Google Colab
-- Basic experience with deployment workflows
+**Tools & Platforms**
+- Git · GitHub  
+- Jupyter Notebook · Google Colab  
+- VS Code  
 
 ---
 
-## 📂 Projects Snapshot
-- **Movie Recommendation System (NLP-based)**  
-  Built a recommendation system using text-based features and similarity techniques to suggest relevant movies.
-  
-- **Used Car Price Prediction**  
-  Implemented regression models to predict car prices based on multiple features and market trends.
+## 📊 GitHub Performance Overview
 
-- **MindMuse – 5-in-1 Creativity Tool**  
-  A web-based AI tool for idea generation using NLP APIs.
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&rank_icon=github" 
+    height="165"
+  />
+</p>
 
-*(More projects and improvements in progress 🚧)*
-
----
-
-## 📚 Currently Working On
-- Advancing skills in **Machine Learning & Deep Learning**
-- Exploring real-world applications of **AI models**
-- Strengthening **problem-solving and core CS fundamentals**
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&langs_count=8"
+  />
+</p>
 
 ---
 
-## 🌱 Learning Philosophy
-I focus on understanding concepts deeply, writing clean code, and building things that actually work.  
-Progress > perfection. Signal > noise.
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true"/>
+</p>
 
 ---
 
-## 📫 Let’s Connect
-- GitHub: *You’re already here 😉*
-- LinkedIn: *https://www.linkedin.com/in/ayushimajumdar/*
+## 🧩 Featured Projects
+- 🎬 **Movie Recommendation System**  
+  NLP-based recommendation system using text features and similarity techniques.
+
+- 🚗 **Used Car Price Prediction**  
+  Regression-based model to predict vehicle prices using structured market data.
+
+- 🧠 **MindMuse – 5-in-1 Creativity Tool**  
+  AI-powered web tool for idea generation, pitches, and problem statements using NLP APIs.
 
 ---
 
-⭐ If you find something useful here, feel free to explore, fork, or collaborate.
+## 🌱 Currently Exploring
+- Advanced Machine Learning concepts  
+- Deep Learning architectures  
+- Improving model performance and interpretability  
+- Writing cleaner, production-ready code  
+
+---
+
+<p align="center">
+<b>Focused on consistent growth, strong fundamentals, and long-term impact.</b>
+</p>

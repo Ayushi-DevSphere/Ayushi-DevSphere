@@ -72,7 +72,7 @@ Progress > perfection. Signal > noise.
 
 ## 📫 Let’s Connect
 - GitHub: *You’re already here 😉*
-- LinkedIn: *(Add your link if you want)*
+- LinkedIn: *https://www.linkedin.com/in/ayushimajumdar/*
 
 ---
 

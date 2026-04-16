@@ -4,7 +4,7 @@
 
 <h1 align="center">Ayushi Majumdar</h1>
 <h3 align="center">
-Data Science & Analytics | Machine Learning | Applied AI
+Data Science & Analytics | Machine Learning | Applied AI  
 </h3>
 
 

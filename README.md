@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ayushi-DevSphere&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h1 align="center">Ayushi Majumdar</h1>
+<h1 align="center">Ayushi Majumdar </h1>
 <h3 align="center">
 Data Science & Analytics | Machine Learning | Applied AI  
 </h3>
